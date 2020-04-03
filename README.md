@@ -1,4 +1,4 @@
-# Filterable-List-Using-Vanilla-JavaScript
+# build a filterable list using Vanilla JavaScript. Using Materialize for CSS and layout. 
 
 </br>
 </br>
